@@ -11,7 +11,6 @@ The goal of this project is to detect and classify fake audio samples generated 
 
 ### Methods Used
 
-Models:
 MLP (Multi-Layer Perceptron)
 A simple yet effective neural network approach for audio classification.
 
